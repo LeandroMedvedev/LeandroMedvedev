@@ -93,7 +93,7 @@ Ouça:
 ![TernoRei](https://www.youtube.com/watch?v=2PNANBefJfs&list=PL5jEiN1kOym8wXZynzS7yqlajHEXjwuXw&index=12)  
 
 Veja:  
-![Seinfeld](https://www.youtube.com/watch?v=YB_epS5h3F8)  
-![Lost](https://www.youtube.com/watch?v=EZYBehUW5c8)  
+[Seinfeld](https://www.youtube.com/watch?v=YB_epS5h3F8)  
+[Lost](https://www.youtube.com/watch?v=EZYBehUW5c8)  
 
-![jw.org](jw.org)
+[jw.org](https://www.jw.org/pt/)
