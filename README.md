@@ -84,7 +84,7 @@ Social:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)  
 
-E aí, vamos trabalhar juntos? :blush:  
+E aí, vamos trabalhar juntos? :bow:  
 Feito com :heart: por Leandro Medvedev. 🙋  
 31 de Julho de 2022, 17h25. :calendar:  
 Rio de Janeiro, Brasil. :city_sunrise:  
