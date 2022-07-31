@@ -90,7 +90,7 @@ Feito com :heart: por Leandro Medvedev. 🙋
 Rio de Janeiro, Brasil. :city_sunrise:  
 
 Ouça:  
-![TernoRei](https://www.youtube.com/watch?v=2PNANBefJfs&list=PL5jEiN1kOym8wXZynzS7yqlajHEXjwuXw&index=12)  
+[TernoRei](https://www.youtube.com/watch?v=2PNANBefJfs&list=PL5jEiN1kOym8wXZynzS7yqlajHEXjwuXw&index=12)  
 
 Veja:  
 [Seinfeld](https://www.youtube.com/watch?v=YB_epS5h3F8)  
