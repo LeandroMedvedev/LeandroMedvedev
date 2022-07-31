@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço, sinta-se em casa. Espero que goste.  
-Atualmente estou aprendendo Django :saxophone: e aperfeiçoando meus conhecimentos em Python :snake:.  
+Atualmente estou aprendendo Django:saxophone: e aperfeiçoando meus conhecimentos em Python:snake:.  
 Algumas das tecnologias que estudei/estudo:  
 
 Frameworks, plataformas e bibliotecas:  
