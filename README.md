@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bem-vindo ao meu pequeno espaço, sinta-se em casa. Espero que goste.  
+Bem-vindo ao meu pequeno espaço, sinta-se em :house_with_garden:. Espero que goste.  
 Atualmente estou aprendendo Django:saxophone: e aperfeiçoando meus conhecimentos em Python:snake:.  
-Algumas das tecnologias que estudei/estudo:  
+Algumas das tecnologias que estudei/estudo :books::  
 
 Frameworks, plataformas e bibliotecas:  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
@@ -83,3 +83,8 @@ Social:
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)  
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)  
+
+E aí, vamos trabalhar juntos? :blush:  
+Feito com :heart: por Leandro Medvedev. 🙋  
+31 de Julho de 2022, 17h25. :calendar:  
+Rio de Janeiro, Brasil. :city_sunrise:  
