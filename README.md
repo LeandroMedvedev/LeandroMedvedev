@@ -88,12 +88,3 @@ E aí, vamos trabalhar juntos? :blush:
 Feito com :heart: por Leandro Medvedev. 🙋  
 31 de Julho de 2022, 17h25. :calendar:  
 Rio de Janeiro, Brasil. :city_sunrise:  
-
-Ouça:  
-[TernoRei](https://www.youtube.com/watch?v=2PNANBefJfs&list=PL5jEiN1kOym8wXZynzS7yqlajHEXjwuXw&index=12)  
-
-Veja:  
-[Seinfeld](https://www.youtube.com/watch?v=YB_epS5h3F8)  
-[Lost](https://www.youtube.com/watch?v=EZYBehUW5c8)  
-
-[jw.org](https://www.jw.org/pt/)
