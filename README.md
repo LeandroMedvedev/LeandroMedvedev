@@ -78,5 +78,5 @@ Social:
 
 E aí, vamos trabalhar juntos? :bow:  
 Feito com :heart: por Leandro Medvedev. 🙋  
-29 de Julho de 2022, 17h25. :calendar:  
-Rio de Janeiro, Brasil. :city_sunrise:  
+:calendar: 29 de Julho de 2022, 17h25.    
+Rio de Janeiro :city_sunrise:, Brasil.  
