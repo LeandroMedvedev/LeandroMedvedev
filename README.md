@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Atualmente estou aperfeiçoando meus conhecimentos em NodeJS e JavaScript, além de estudar estruturas de dados. Mais uma certificação📜 à vista após incontáveis += horas codando.
+Atualmente estou aperfeiçoando meus conhecimentos em NodeJS e JavaScript, além de estudar estruturas de dados. 
+Mais uma certificação📜 à vista após incontáveis += horas codando.  
 Algumas das tecnologias que estudei/estudo :books::  
 
 Frameworks, plataformas e bibliotecas:  
