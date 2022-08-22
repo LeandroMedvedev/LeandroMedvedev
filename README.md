@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Atualmente estou aperfeiçoando meus conhecimentos em NodeJS, JavaScript, Django:saxophone: e Python:snake: além de estudar estruturas de dados.  
+Atualmente estou aperfeiçoando meus conhecimentos em NodeJS, JavaScript, Django:saxophone: e Python:snake:, além de estudar estruturas de dados.  
 Algumas das tecnologias que estudei/estudo :books::  
 
 Frameworks, plataformas e bibliotecas:  
