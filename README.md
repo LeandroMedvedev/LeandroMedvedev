@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Por hora aperfeiçoando meus conhecimentos em NodeJS, JavaScript e estruturas de dados.  
+Por hora aperfeiçoando meus conhecimentos em NodeJS, JavaScript, estruturas de dados e :mortar_board:matemática :heavy_division_sign::heavy_plus_sign::heavy_division_sign::heavy_minus_sign:.  
 Mais uma certificação📜 à vista após incontáveis += horas codando.  
 Algumas das tecnologias que estudei/estudo :books::  
 
