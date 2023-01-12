@@ -60,6 +60,7 @@ Ferramentas:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)  
 
 Deploy:  
+![Render](https://img.shields.io/badge/render-%23430098.svg?style=plastic&logo=render&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)  
 
