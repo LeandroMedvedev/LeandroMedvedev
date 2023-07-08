@@ -87,9 +87,7 @@ Contato:
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)  
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)  
 ![GMail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)    
-
-Portfólio:  
-https://portfolio-leandromedvedev.vercel.app/  
+ 
 
 E aí, vamos trabalhar juntos? :bow:  
 Feito com :heart: por Leandro Medvedev. 🙋  
