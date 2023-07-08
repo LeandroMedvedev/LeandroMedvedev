@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Por hora cursando Engenharia de Software e aperfeiçoando meus conhecimentos  
-em NodeJS, JavaScript, raciocínio lógico matemático e :mortar_board:matemática :heavy_multiplication_x::heavy_plus_sign::heavy_division_sign::heavy_minus_sign:.  
-Mais uma certificação📜 à vista após incontáveis += horas codando.  
+Por hora cursando Engenharia de Software e aprendendo:  
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-D9281A?style=plastic&logo=redis&logoColor=white)  
+
+Mais certificação📜 à vista após incontáveis += horas codando.  
 Algumas das tecnologias que estudei/estudo :books::  
 
 Frameworks, plataformas e bibliotecas:  
@@ -78,6 +82,14 @@ Servidores:
 Social:  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)  
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)  ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=plastic&logo=linktree&logoColor=white)  
+
+Contato:  
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)  
+![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)  
+![GMail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)    
+
+Portfólio:  
+https://portfolio-leandromedvedev.vercel.app/  
 
 E aí, vamos trabalhar juntos? :bow:  
 Feito com :heart: por Leandro Medvedev. 🙋  
