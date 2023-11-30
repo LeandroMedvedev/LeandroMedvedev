@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Por hora cursando Engenharia de Software e aprendendo:  
+Por ora cursando engenharia de software e aprendendo:  
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)  
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)  
 ![Redis](https://img.shields.io/badge/Redis-D9281A?style=plastic&logo=redis&logoColor=white)  
 
