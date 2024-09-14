@@ -26,14 +26,16 @@ Por ora cursando Engenharia de Software e aprimorando conhecimentos em:
 Algumas das tecnologias que estudei :books::  
 
 Frameworks, plataformas e bibliotecas:  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)  ![DjangoREST](https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  ![NodeJS](https://img.shields.io/badge/Node.js-417E38?style=plastic&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-%23282C34.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)  ![Styled Components](https://img.shields.io/badge/styled--components-BF4F74?style=plastic&logo=styled-components&logoColor=white)  
-![Chakra](https://img.shields.io/badge/Chakra%20UI-%232C7A7B.svg?style=plastic&logo=chakraui&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)  ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.net&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)  ![DjangoREST](https://img.shields.io/badge/Django%20REST%20framework-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray)  
+![Styled Components](https://img.shields.io/badge/styled--components-BF4F74?style=plastic&logo=styled-components&logoColor=white)  ![Chakra](https://img.shields.io/badge/Chakra%20UI-%232C7A7B.svg?style=plastic&logo=chakraui&logoColor=white)  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white)  
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black)  ![NodeJS](https://img.shields.io/badge/Node.js-417E38?style=plastic&logo=node.js&logoColor=white)  ![React](https://img.shields.io/badge/React-%23282C34.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)  
 
 Linguagens:  
-![Python](https://img.shields.io/badge/Python-407DAE?style=plastic&logo=python&logoColor=ffd949)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
+![Python](https://img.shields.io/badge/Python-407DAE?style=plastic&logo=python&logoColor=ffd949)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)    
+
 
 Testes:  
 ![cypress](https://img.shields.io/badge/Cypress-%23E5E5E5?style=plastic&logo=cypress&logoColor=058a5e)  
@@ -44,8 +46,9 @@ Documentação:
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)  
 
 Bancos de dados:  
-![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B.svg?style=plastic&logo=mongodb&logoColor=00ED64)  ![Postgres](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%233E6E93.svg?style=plastic&logo=mysql&logoColor=F29111)  ![SQLite](https://img.shields.io/badge/SQLite-%23044A5C.svg?style=plastic&logo=sqlite&logoColor=249AD4)  
+![SQLite](https://img.shields.io/badge/SQLite-%23044A5C.svg?style=plastic&logo=sqlite&logoColor=249AD4)  ![Postgres](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)   
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%23001E2B.svg?style=plastic&logo=mongodb&logoColor=00ED64)  
+![MySQL](https://img.shields.io/badge/MySQL-%233E6E93.svg?style=plastic&logo=mysql&logoColor=F29111)   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white)   
 
 Contêineres:  
 ![Docker](https://img.shields.io/badge/Docker-%231D63ED.svg?style=plastic&logo=docker&logoColor=white)  
