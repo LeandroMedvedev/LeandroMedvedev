@@ -81,7 +81,7 @@ Servidores:
 
 Social:  
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)  ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=plastic&logo=zoom&logoColor=white)  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)  
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&logo=Twitter&logoColor=white)  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)  ![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=plastic&logo=linktree&logoColor=white)  
+![X (Twitter)](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)  ![Linktree](https://img.shields.io/badge/Linktree-1de9b6?style=plastic&logo=linktree&logoColor=white)  
 
 Contato:  
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)  
