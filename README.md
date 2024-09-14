@@ -52,7 +52,7 @@ Contêineres:
 
 IDEs ou editores:  
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=plastic&logo=visual-studio-code&logoColor=white)  
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-C74634.svg?style=plastic&logo=apache-netbeans-ide&logoColor=white)
 
 Design:  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)  
