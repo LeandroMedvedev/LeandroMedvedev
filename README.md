@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
-Por ora cursando Engenharia de Software e aprimorando conhecimentos em:  
+Por ora cursando Engenharia de Software e iniciando/aprimorando conhecimentos em:  
 
-![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1572B6?style=plastic&logo=css3&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)   
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1572B6?style=plastic&logo=css3&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-282C34?style=plastic&logo=react&logoColor=61DAFB)  
 ![React](https://img.shields.io/badge/React-282C34?style=plastic&logo=react&logoColor=61DAFB)  
 ![SCRUM](https://img.shields.io/badge/SCRUM-FFAC45?style=plastic&logo=scrum&logoColor=white)  
  
