@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
 Por ora cursando Engenharia de Software e aprofundando conhecimentos em _back-end_ com foco em microsserviços, arquitetura orientada a eventos e desenvolvimento de aplicações escaláveis com Java e Spring Boot.  
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandromedvedev&show_icons=true&locale=pt-BR&layout=compact" alt="leandromedvedev" /></p>  
+
 #### 📘💻 Tecnologias que estou estudando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)  
@@ -100,7 +102,6 @@ Contato:
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white)  
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)  
 ![GMail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)    
- 
 
 E aí, vamos trabalhar juntos? :bow:  
 Feito com :heart: por Leandro Medvedev. 🙋  
