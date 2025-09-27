@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Bem-vindo ao meu pequeno espaço. Espero que goste, sinta-se em :house_with_garden:.    
 Por ora cursando Engenharia de Software e aprofundando conhecimentos em _back-end_ com foco em microsserviços, arquitetura orientada a eventos e desenvolvimento de aplicações escaláveis com Java e Spring Boot.  
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandromedvedev&show_icons=true&locale=pt-BR&layout=compact" alt="leandromedvedev" /></p>  
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=leandromedvedev&show_icons=true&locale=pt-BR&layout=compact&langs_count=8&theme=dark&title_color=fff" alt="leandromedvedev" /></p>  
 
 #### 📘💻 Tecnologias que estou estudando
 
